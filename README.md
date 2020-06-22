@@ -24,3 +24,4 @@ A collection of free download banners.
 
 ### Useful links:
  - https://www.freepik.com/free-vectors/banners
+ - https://freeiconshop.com/
