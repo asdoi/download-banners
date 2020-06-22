@@ -1,5 +1,5 @@
 # Download banners
-
+[![Stars](https://img.shields.io/badge/dynamic/json.svg?style=social&label=Stars&url=https://gitlab.com/api/v4/projects/19517636&query=star_count&logo=gitlab)]()  
 A collection of free download banners.
 
 ### Android banners:
