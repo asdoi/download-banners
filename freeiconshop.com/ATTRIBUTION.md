@@ -1,0 +1,1 @@
+All images in this folder were taken from https://freeiconshop.com/ under the terms of https://freeiconshop.com/icon-shop-license/
