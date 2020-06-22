@@ -11,8 +11,8 @@
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    inkscape:export-ydpi="1000"
    inkscape:export-xdpi="1000"
-   inkscape:export-filename="/home/fh/git/download-banners/custom badges/download-apk/direct-apk-download.png"
-   sodipodi:docname="direct-apk-download.svg"
+   inkscape:export-filename="/home/fh/git/download-banners/custom badges/download-for-android/download-for-android.png"
+   sodipodi:docname="download-for-android.svg"
    id="svg82"
    version="1.1"
    height="250"
@@ -33,8 +33,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="110.57597"
-     inkscape:cx="374.03061"
+     inkscape:cy="-36.081448"
+     inkscape:cx="493.74087"
      inkscape:zoom="0.62391775"
      showgrid="false"
      id="namedview84"
@@ -108,7 +108,7 @@
          font-size="34.125px"
          style="-inkscape-font-specification:'DejaVu Sans'"
          x="508.95099"
-         y="408.367">DIRECT APK</tspan></text>
+         y="408.367">DOWNLOAD FOR</tspan></text>
     <text
        id="text18"
        fill="#ffffff"
@@ -121,50 +121,34 @@
        color="#000000"
        y="473.36099"
        x="508.21301"
-       style="font-size:61.3333px;line-height:100%;-inkscape-font-specification:'Rokkitt Bold';text-align:start;marker:none"><tspan
+       style="font-size:68px;line-height:100%;-inkscape-font-specification:'Rokkitt Bold';text-align:start;marker:none"><tspan
          id="tspan16"
          font-family="'Roboto Slab'"
          font-size="95px"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.3333px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68px;line-height:100%;font-family:Gubbi;-inkscape-font-specification:'Gubbi Bold';text-align:start"
          y="473.36099"
-         x="508.21301">DOWNLOAD</tspan></text>
+         x="508.21301">ANDROID</tspan></text>
     <g
-       transform="matrix(1.6885476,0,0,1.6885476,366.77196,379.34841)"
-       id="g898">
+       id="g38"
+       transform="matrix(1.7283005,0,0,1.7283005,361.25691,376.09298)">
       <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g10">
+         id="g30">
         <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g8">
-          <g
-             style="fill:#ffffff;fill-opacity:1"
-             id="g6">
-            <g
-               style="fill:#ffffff;fill-opacity:1"
-               id="g4">
-              <path
-                 style="fill:#ffffff;fill-opacity:1"
-                 id="path2"
-                 d="M 53,15.3 V 15.2 C 52.4,13.9 51,13 49.5,13 H 46 v 6 h 2.1 l 9.2,11 H 45 c 0,0 -1.5,5.1 -2.4,8 -0.5,1.7 -1.8,2 -3.6,2 H 25 c -1.8,0 -3.3,-1.2 -3.8,-2.9 L 19,30 H 6.7 L 15.9,19 H 18 v -6 h -3.4 c -1.5,0 -2.9,0.8 -3.6,2.2 L 0,30 v 29 c 0,0.6 0.4,1 1,1 h 62 c 0.6,0 1,-0.4 1,-1 V 30 Z" />
-            </g>
-          </g>
+           id="g28">
+          <path
+             id="path26"
+             d="M 32,0 C 49.7,0 64,14.3 64,32 64,49.7 49.7,64 32,64 14.3,64 0,49.7 0,32 0,14.3 14.3,0 32,0 Z"
+             fill="#a4c639" />
         </g>
       </g>
       <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g18">
+         id="g36">
         <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g16">
-          <g
-             style="fill:#ffffff;fill-opacity:1"
-             id="g14">
-            <polygon
-               style="fill:#ffffff;fill-opacity:1"
-               id="polygon12"
-               points="32,28 21,15 26,15 26,0 38,0 38,15 43,15 " />
-          </g>
+           id="g34">
+          <path
+             id="path32"
+             d="m 16.6,24.6 c -1.4,0 -2.6,1.2 -2.6,2.6 L 14,38 c 0,1.4 1.2,2.6 2.6,2.6 1.5,0 2.6,-1.2 2.6,-2.6 V 27.1 c 0.1,-1.4 -1.1,-2.5 -2.6,-2.5 m 21.2,-9.8 1.8,-3.3 c 0.1,-0.2 0,-0.4 -0.1,-0.5 -0.2,-0.1 -0.4,0 -0.5,0.1 l -1.9,3.3 c -1.6,-0.7 -3.3,-1.1 -5.1,-1.1 -1.8,0 -3.6,0.4 -5.1,1.1 L 25,11.2 C 24.9,11 24.7,11 24.5,11 c -0.2,0.1 -0.2,0.3 -0.1,0.5 l 1.8,3.3 c -3.6,1.8 -6,5.3 -6,9.3 h 23.6 c 0,-3.9 -2.4,-7.4 -6,-9.3 m -11.2,5.1 c -0.5,0 -1,-0.4 -1,-1 0,-0.5 0.4,-1 1,-1 0.5,0 1,0.4 1,1 0,0.6 -0.4,1 -1,1 m 10.8,0 c -0.5,0 -1,-0.4 -1,-1 0,-0.5 0.4,-1 1,-1 0.5,0 1,0.4 1,1 0,0.6 -0.5,1 -1,1 m -17.1,5.2 v 16.8 c 0,1.5 1.3,2.8 2.8,2.8 H 25 v 5.7 c 0,1.4 1.2,2.6 2.6,2.6 1.5,0 2.6,-1.2 2.6,-2.6 v -5.7 h 3.5 v 5.7 c 0,1.4 1.2,2.6 2.6,2.6 1.5,0 2.6,-1.2 2.6,-2.6 v -5.7 h 1.9 c 1.5,0 2.8,-1.2 2.8,-2.8 V 25.1 Z M 50,27.2 c 0,-1.4 -1.2,-2.6 -2.6,-2.6 -1.4,0 -2.6,1.2 -2.6,2.6 v 10.9 c 0,1.4 1.2,2.6 2.6,2.6 1.4,0 2.6,-1.2 2.6,-2.6 z"
+             fill="#ffffff" />
         </g>
       </g>
     </g>
