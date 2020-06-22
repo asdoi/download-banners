@@ -1,0 +1,2 @@
+<a href="https://gitlab.com/fdroid/artwork/-/blob/master/badge/get-it-on.svg">Background</a> made by relan from <a href="https://gitlab.com/fdroid/artwork">F-Droid/Artwork</a>
+<a href="https://freeiconshop.com/icon/download-box-icon-glyph/">Image</a> made by <a href="https://freeiconshop.com/">IconShop</a>
