@@ -1,0 +1,2 @@
+<a href="https://gitlab.com/fdroid/artwork/-/blob/master/badge/get-it-on.svg">Background</a> made by relan from <a href="https://gitlab.com/fdroid/artwork">F-Droid/Artwork</a>  
+<a href="https://gitlab.com/TacoTheDank/APKMirror/-/blob/develop/images/APKMirror_Icon.png">Image</a> made by <a href="https://gitlab.com/TacoTheDank">TacoTheDank</a> from <a href="https://gitlab.com/TacoTheDank/APKMirror">TacoTheDank/APKMirror<a/> under the terms of <a href="https://choosealicense.com/licenses/gpl-2.0/">GNU GPLv2 or later</a>
