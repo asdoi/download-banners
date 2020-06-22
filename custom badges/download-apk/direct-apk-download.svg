@@ -8,15 +8,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   inkscape:export-ydpi="1000"
-   inkscape:export-xdpi="1000"
-   inkscape:export-filename="/home/fh/git/download-banners/custom badges/apkmirror/download-on-apkmirror.png"
-   sodipodi:docname="download-on-apkmirror.svg"
-   id="svg82"
-   version="1.1"
+   width="646"
    height="250"
-   width="646">
+   version="1.1"
+   id="svg82"
+   sodipodi:docname="direct-apk-download.svg"
+   inkscape:export-filename="/home/fh/git/download-banners/custom badges/download-apk/direct-apk-download.png"
+   inkscape:export-xdpi="1000"
+   inkscape:export-ydpi="1000"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
   <metadata
      id="metadata86">
     <rdf:RDF>
@@ -29,151 +29,144 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="g80"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="110.57597"
-     inkscape:cx="374.03061"
-     inkscape:zoom="0.62391775"
-     showgrid="false"
-     id="namedview84"
-     inkscape:window-height="1009"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
+     inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview84"
+     showgrid="false"
+     inkscape:zoom="0.62391775"
+     inkscape:cx="374.03061"
+     inkscape:cy="110.57597"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g80" />
   <defs
      id="defs8">
     <linearGradient
        id="a">
       <stop
-         id="stop2"
+         offset="0"
+         stop-color="#fff"
          stop-opacity=".098"
-         stop-color="#fff"
-         offset="0" />
+         id="stop2" />
       <stop
-         id="stop4"
-         stop-opacity="0"
+         offset="1"
          stop-color="#fff"
-         offset="1" />
+         stop-opacity="0"
+         id="stop4" />
     </linearGradient>
     <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.96105,-1.97781,0,337.507,154.763)"
-       r="59.662"
-       fy="-12.89"
-       fx="113"
-       cy="-12.89"
-       cx="113"
+       xlink:href="#a"
        id="b"
-       xlink:href="#a" />
+       cx="113"
+       cy="-12.89"
+       fx="113"
+       fy="-12.89"
+       r="59.662"
+       gradientTransform="matrix(0,1.96105,-1.97781,0,337.507,154.763)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     id="g80"
-     transform="translate(-289 -312.362)">
+     transform="translate(-289 -312.362)"
+     id="g80">
     <rect
-       id="rect10"
-       stroke-width="4"
-       stroke="#a6a6a6"
-       overflow="visible"
-       color="#000"
-       ry="20"
-       rx="20"
-       y="355.362"
-       x="332"
-       height="164"
+       style="marker:none"
        width="560"
-       style="marker:none" />
-    <text
-       id="text14"
-       fill="#ffffff"
+       height="164"
+       x="332"
+       y="355.362"
+       rx="20"
+       ry="20"
+       color="#000"
        overflow="visible"
-       word-spacing="0"
-       letter-spacing="0"
-       font-family="'DejaVu Sans'"
-       font-size="12.395px"
-       font-weight="400"
-       color="#000000"
-       style="line-height:100%;-inkscape-font-specification:'DejaVu Sans';marker:none"
+       stroke="#a6a6a6"
+       stroke-width="4"
+       id="rect10" />
+    <text
+       y="406.367"
        x="508.95099"
-       y="406.367"><tspan
-         id="tspan12"
-         font-size="34.125px"
-         style="-inkscape-font-specification:'DejaVu Sans'"
-         x="508.95099"
-         y="406.367">DIRECT APK</tspan></text>
-    <text
-       id="text18"
-       fill="#ffffff"
-       overflow="visible"
-       word-spacing="0"
-       letter-spacing="0"
-       font-family="Rokkitt"
-       font-size="29.709px"
-       font-weight="700"
+       style="line-height:100%;-inkscape-font-specification:'DejaVu Sans';marker:none"
        color="#000000"
-       y="473.36099"
+       font-weight="400"
+       font-size="12.395px"
+       font-family="'DejaVu Sans'"
+       letter-spacing="0"
+       word-spacing="0"
+       overflow="visible"
+       fill="#ffffff"
+       id="text14"><tspan
+         y="406.367"
+         x="508.95099"
+         style="-inkscape-font-specification:'DejaVu Sans'"
+         font-size="34.125px"
+         id="tspan12">DIRECT APK</tspan></text>
+    <text
+       style="font-size:58.6667px;line-height:100%;-inkscape-font-specification:'Rokkitt Bold';text-align:start;marker:none"
        x="508.21301"
-       style="font-size:58.6667px;line-height:100%;-inkscape-font-specification:'Rokkitt Bold';text-align:start;marker:none"><tspan
-         id="tspan16"
-         font-family="'Roboto Slab'"
-         font-size="95px"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.6667px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start"
+       y="473.36099"
+       color="#000000"
+       font-weight="700"
+       font-size="29.709px"
+       font-family="Rokkitt"
+       letter-spacing="0"
+       word-spacing="0"
+       overflow="visible"
+       fill="#ffffff"
+       id="text18"><tspan
+         x="508.21301"
          y="473.36099"
-         x="508.21301">DOWNLOAD</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.6667px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start"
+         font-size="95px"
+         font-family="'Roboto Slab'"
+         id="tspan16">DOWNLOAD</tspan></text>
     <g
-       transform="matrix(1.7825244,0,0,1.7825244,362.77196,379.34841)"
-       id="g898">
+       id="g898"
+       transform="matrix(1.7825244,0,0,1.7825244,362.77196,379.34841)">
       <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g10">
-	<g
-   style="fill:#ffffff;fill-opacity:1"
-   id="g8">
-		<g
-   style="fill:#ffffff;fill-opacity:1"
-   id="g6">
-			<g
-   style="fill:#ffffff;fill-opacity:1"
-   id="g4">
-				<path
-   style="fill:#ffffff;fill-opacity:1"
-   id="path2"
-   d="M 53,15.3 V 15.2 C 52.4,13.9 51,13 49.5,13 H 46 v 6 h 2.1 l 9.2,11 H 45 c 0,0 -1.5,5.1 -2.4,8 -0.5,1.7 -1.8,2 -3.6,2 H 25 c -1.8,0 -3.3,-1.2 -3.8,-2.9 L 19,30 H 6.7 L 15.9,19 H 18 v -6 h -3.4 c -1.5,0 -2.9,0.8 -3.6,2.2 L 0,30 v 29 c 0,0.6 0.4,1 1,1 h 62 c 0.6,0 1,-0.4 1,-1 V 30 Z" />
-
-			</g>
-
-		</g>
-
-	</g>
-
-</g>
+         id="g10"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           id="g8"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g6"
+             style="fill:#ffffff;fill-opacity:1">
+            <g
+               id="g4"
+               style="fill:#ffffff;fill-opacity:1">
+              <path
+                 d="M 53,15.3 V 15.2 C 52.4,13.9 51,13 49.5,13 H 46 v 6 h 2.1 l 9.2,11 H 45 c 0,0 -1.5,5.1 -2.4,8 -0.5,1.7 -1.8,2 -3.6,2 H 25 c -1.8,0 -3.3,-1.2 -3.8,-2.9 L 19,30 H 6.7 L 15.9,19 H 18 v -6 h -3.4 c -1.5,0 -2.9,0.8 -3.6,2.2 L 0,30 v 29 c 0,0.6 0.4,1 1,1 h 62 c 0.6,0 1,-0.4 1,-1 V 30 Z"
+                 id="path2"
+                 style="fill:#ffffff;fill-opacity:1" />
+            </g>
+          </g>
+        </g>
+      </g>
       <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g18">
-	<g
-   style="fill:#ffffff;fill-opacity:1"
-   id="g16">
-		<g
-   style="fill:#ffffff;fill-opacity:1"
-   id="g14">
-			<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon12"
-   points="38,0 38,15 43,15 32,28 21,15 26,15 26,0 " />
-
-		</g>
-
-	</g>
-
-</g>
+         id="g18"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           id="g16"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g14"
+             style="fill:#ffffff;fill-opacity:1">
+            <polygon
+               points="38,0 38,15 43,15 32,28 21,15 26,15 26,0 "
+               id="polygon12"
+               style="fill:#ffffff;fill-opacity:1" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
