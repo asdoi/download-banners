@@ -1,0 +1,2 @@
+<a href="https://gitlab.com/fdroid/artwork/-/blob/master/badge/get-it-on.svg">Background</a> made by relan from <a href="https://gitlab.com/fdroid/artwork">F-Droid/Artwork</a>
+<a href="https://www.apkmirror.com/wp-content/themes/APKMirror/images/logov2.png">Image</a> made by <a href="https://www.apkmirror.com/">APKMirror.com</a> with the agreement of Artem Russakovskii
