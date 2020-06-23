@@ -8,15 +8,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="646"
-   height="250"
-   version="1.1"
-   id="svg82"
-   sodipodi:docname="download-on-apkmirror.svg"
-   inkscape:export-filename="/home/fh/git/download-banners/custom badges/apkmirror-2/download-on-apkmirror.png"
-   inkscape:export-xdpi="1000"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
    inkscape:export-ydpi="1000"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+   inkscape:export-xdpi="1000"
+   inkscape:export-filename="/home/fh/git/download-banners/custom badges/apkmirror-2/download-on-apkmirror.png"
+   sodipodi:docname="download-on-apkmirror.svg"
+   id="svg82"
+   version="1.1"
+   height="250"
+   width="646">
   <metadata
      id="metadata86">
     <rdf:RDF>
@@ -29,112 +29,112 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview84"
-     showgrid="false"
-     inkscape:zoom="0.62391775"
-     inkscape:cx="110.36845"
-     inkscape:cy="86.1189"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:current-layer="g80"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g80" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="86.1189"
+     inkscape:cx="110.36845"
+     inkscape:zoom="0.62391775"
+     showgrid="false"
+     id="namedview84"
+     inkscape:window-height="1009"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs8">
     <linearGradient
        id="a">
       <stop
-         offset="0"
-         stop-color="#fff"
+         id="stop2"
          stop-opacity=".098"
-         id="stop2" />
-      <stop
-         offset="1"
          stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4"
          stop-opacity="0"
-         id="stop4" />
+         stop-color="#fff"
+         offset="1" />
     </linearGradient>
     <radialGradient
-       xlink:href="#a"
-       id="b"
-       cx="113"
-       cy="-12.89"
-       fx="113"
-       fy="-12.89"
-       r="59.662"
+       gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,1.96105,-1.97781,0,337.507,154.763)"
-       gradientUnits="userSpaceOnUse" />
+       r="59.662"
+       fy="-12.89"
+       fx="113"
+       cy="-12.89"
+       cx="113"
+       id="b"
+       xlink:href="#a" />
   </defs>
   <g
-     transform="translate(-289 -312.362)"
-     id="g80">
+     id="g80"
+     transform="translate(-289 -312.362)">
     <rect
-       style="marker:none"
-       width="560"
-       height="164"
-       x="332"
-       y="355.362"
-       rx="20"
-       ry="20"
-       color="#000"
-       overflow="visible"
-       stroke="#a6a6a6"
+       id="rect10"
        stroke-width="4"
-       id="rect10" />
+       stroke="#a6a6a6"
+       overflow="visible"
+       color="#000"
+       ry="20"
+       rx="20"
+       y="355.362"
+       x="332"
+       height="164"
+       width="560"
+       style="marker:none" />
     <text
-       y="410.367"
-       x="508.95099"
-       style="line-height:100%;-inkscape-font-specification:'DejaVu Sans';marker:none"
-       color="#000000"
-       font-weight="400"
-       font-size="12.395px"
+       id="text14"
+       fill="#ffffff"
+       overflow="visible"
+       word-spacing="0"
+       letter-spacing="0"
        font-family="'DejaVu Sans'"
-       letter-spacing="0"
-       word-spacing="0"
-       overflow="visible"
-       fill="#ffffff"
-       id="text14"><tspan
-         y="410.367"
-         x="508.95099"
-         style="-inkscape-font-specification:'DejaVu Sans'"
-         font-size="34.125px"
-         id="tspan12">DOWNLOAD ON</tspan></text>
-    <text
-       style="font-size:58.6667px;line-height:100%;-inkscape-font-specification:'Rokkitt Bold';text-align:start;marker:none"
-       x="508.21301"
-       y="471.36099"
+       font-size="12.395px"
+       font-weight="400"
        color="#000000"
-       font-weight="700"
-       font-size="29.709px"
-       font-family="Rokkitt"
-       letter-spacing="0"
-       word-spacing="0"
-       overflow="visible"
+       style="line-height:100%;-inkscape-font-specification:'DejaVu Sans';marker:none"
+       x="508.95099"
+       y="410.367"><tspan
+         id="tspan12"
+         font-size="34.125px"
+         style="-inkscape-font-specification:'DejaVu Sans'"
+         x="508.95099"
+         y="410.367">GET IT ON</tspan></text>
+    <text
+       id="text18"
        fill="#ffffff"
-       id="text18"><tspan
-         x="508.21301"
-         y="471.36099"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.6667px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start"
-         font-size="95px"
+       overflow="visible"
+       word-spacing="0"
+       letter-spacing="0"
+       font-family="Rokkitt"
+       font-size="29.709px"
+       font-weight="700"
+       color="#000000"
+       y="473.36099"
+       x="508.21301"
+       style="font-size:58.6667px;line-height:100%;-inkscape-font-specification:'Rokkitt Bold';text-align:start;marker:none"><tspan
+         id="tspan16"
          font-family="'Roboto Slab'"
-         id="tspan16">APKMIRROR</tspan></text>
+         font-size="95px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.6667px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start"
+         y="473.36099"
+         x="508.21301">APKMIRROR</tspan></text>
     <image
-       id="image27"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKIAAABUCAQAAACrMCSUAAAFXUlEQVR42tWcT6sbVRjG8xEGXAvz EfIRsnBbyEcIdOcq4F5mozshK+GAmkEwCr1CsCheixprvd1cJCCil2I7xf9uGqsorh4XSW2TJpk5 z/uc815nFm1mzpCT3z3v+Z2882Z66Jn3EgNif1vwzk/uBdWLF/Gc/b0V3V+C2X7BSApxQvXiH9SX AWIf7LaQQlxRfXiAFQp/iDXV+T8BAKUM4Qj8NvKGWJAj4C4AYCKDuCCnFABYekO0jABgJUJYku// zebfvi9ETirf60LJIJUH//2v9oQ4IEfAt2K5rEzjEFa5eEjl961XpZtUzlVysUmF277eejVxksq9 rVdLL4hjEuKXUrmwUrm587rvA7GhOn9HvE5jpfLxzpHaAyIrlc+k31zYdeo5Hj51rMgPsSZXhrf2 HC2zS+WDPcfGuSGyUvkUf+w5Wmdep363V0ZNboicVP7ChwfGJxdKbPLjdE8wA8AgL0ROKhd7g5mX S01K5fUDZ+qcEFmpnOwNZnadxkvl/YPninwQuRHwK64fOdvPJpUZfjx4bpwLIi+VW0fO1pmkcoG3 jpxtckGsSKlMDwYzIxdWKtfx0dHzgzwQWamcSjPM7Do14KejLeocEIe0VG63tFhmkMoZ3mhtU6SH OCelEo4Gc6xcWKlMMWttM04NsaSlctKhVZ1cKgEXra2a1BA5qfyNKT7pNGMViaUy69RukBZiQ4+A n4W3L3mpXOvUsk4JkZfKSceWy4Tr1DOEnYSwSC45pPIDAs46t+4nSn4AU0w7tx2ngshLJWxuk2tC iZ9S3uzcukkFkZVK6BzMXeQyoKUSnrqvIpJLeql8FRXM7XLhpTKNuqJOAZGVyiwqmNvkYpHKO5HX FHqInFTuRwZzm1zYjPoUAV9EXjVWQ2Sl8hoCPo++qhZPKe8hIOxUXgjlkvbu7grPIhAf/JBcWKn0 8XLH7yqUXNKWDE3QwyvUlSOhVJbo4UprIs4gl7Q5kxI9PE9/cJVURujhmehgfvwJRBC5kqGFaRT3 RVJ5NDVwvahUEEvDCODn01okldo0FTQqiKxUbH+EXbkMaanY0mdDDUR7ICwEcpmb51YukTtXQGSl chVXcBUvoUJFAmiEU4pVj0aIbB1qQMAN2LaBMfmxPSUUqeSSSiqnCAg7hcUWuTTG65PKJZVUQnTW 5FgSwCqVXlq5pJHKOQJCS6VBTBKAm1MXsruEcwtEvmQoRNzPaAslhVSSyiWdVBTBvJYLKxVl5UTF QuTrUFXBvJYDJ5WJNDPesBD5RLwqmC1bKR4aQwZiYZLK1BnhQl6CMmcg2qRy6gxxlCixFwmR+3vd 2wTzbVeEqyRleVUsRJtUupTRpdwmSb5CNLEQOak83CD0DuYy0ZfZYQxEvg71MgTzIlmufh4Dka9D vQzBPEp816gjRL4O1T+YV0nvX1ZdIfJ1qGuIN10hTpLeSW+6QrRJJbbyJrdUEshFL5UTV4TzrqUf Srko61DXEM9cIQ4jIMrkoqxD9Q/m2B9PrDSzrrIO1T+Yq0iI1jvqByBapeIbzLHPkhDlzHV1qOv9 7v9EKpoqo70QrVKZuY7DIQFRIhetVG44ImSfJSKQi0Iqr+KFzf4uFhH7UgqxIiEK5KKpQ837dCWN VIRy0dSh5n3Kk0oqMrmo6lDzPhpGIxWZXFR1qHkfUqSSikgu9h832LpfuUpFJBcvqVin9e2tcOrF 6EmIpYNUbFl05ZRilouuDtXnSd3gnzUnKasvH0Ns3EYAv7RSScWmuMkjiEMnqWhWi2NRLwwFfJof N/iEkkYqArn4SsW+WqyFvaCLmn2lYlunqaRilktPXIeaN5R+k/aCZvEvWD2lxIjo2SsAAAAASUVO RK5CYII= "
-       preserveAspectRatio="none"
-       height="72.738403"
-       width="140.28122"
+       y="399.25681"
        x="349.63681"
-       y="399.25681" />
+       width="140.28122"
+       height="72.738403"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKIAAABUCAQAAACrMCSUAAAFXUlEQVR42tWcT6sbVRjG8xEGXAvz EfIRsnBbyEcIdOcq4F5mozshK+GAmkEwCr1CsCheixprvd1cJCCil2I7xf9uGqsorh4XSW2TJpk5 z/uc815nFm1mzpCT3z3v+Z2882Z66Jn3EgNif1vwzk/uBdWLF/Gc/b0V3V+C2X7BSApxQvXiH9SX AWIf7LaQQlxRfXiAFQp/iDXV+T8BAKUM4Qj8NvKGWJAj4C4AYCKDuCCnFABYekO0jABgJUJYku// zebfvi9ETirf60LJIJUH//2v9oQ4IEfAt2K5rEzjEFa5eEjl961XpZtUzlVysUmF277eejVxksq9 rVdLL4hjEuKXUrmwUrm587rvA7GhOn9HvE5jpfLxzpHaAyIrlc+k31zYdeo5Hj51rMgPsSZXhrf2 HC2zS+WDPcfGuSGyUvkUf+w5Wmdep363V0ZNboicVP7ChwfGJxdKbPLjdE8wA8AgL0ROKhd7g5mX S01K5fUDZ+qcEFmpnOwNZnadxkvl/YPninwQuRHwK64fOdvPJpUZfjx4bpwLIi+VW0fO1pmkcoG3 jpxtckGsSKlMDwYzIxdWKtfx0dHzgzwQWamcSjPM7Do14KejLeocEIe0VG63tFhmkMoZ3mhtU6SH OCelEo4Gc6xcWKlMMWttM04NsaSlctKhVZ1cKgEXra2a1BA5qfyNKT7pNGMViaUy69RukBZiQ4+A n4W3L3mpXOvUsk4JkZfKSceWy4Tr1DOEnYSwSC45pPIDAs46t+4nSn4AU0w7tx2ngshLJWxuk2tC iZ9S3uzcukkFkZVK6BzMXeQyoKUSnrqvIpJLeql8FRXM7XLhpTKNuqJOAZGVyiwqmNvkYpHKO5HX FHqInFTuRwZzm1zYjPoUAV9EXjVWQ2Sl8hoCPo++qhZPKe8hIOxUXgjlkvbu7grPIhAf/JBcWKn0 8XLH7yqUXNKWDE3QwyvUlSOhVJbo4UprIs4gl7Q5kxI9PE9/cJVURujhmehgfvwJRBC5kqGFaRT3 RVJ5NDVwvahUEEvDCODn01okldo0FTQqiKxUbH+EXbkMaanY0mdDDUR7ICwEcpmb51YukTtXQGSl chVXcBUvoUJFAmiEU4pVj0aIbB1qQMAN2LaBMfmxPSUUqeSSSiqnCAg7hcUWuTTG65PKJZVUQnTW 5FgSwCqVXlq5pJHKOQJCS6VBTBKAm1MXsruEcwtEvmQoRNzPaAslhVSSyiWdVBTBvJYLKxVl5UTF QuTrUFXBvJYDJ5WJNDPesBD5RLwqmC1bKR4aQwZiYZLK1BnhQl6CMmcg2qRy6gxxlCixFwmR+3vd 2wTzbVeEqyRleVUsRJtUupTRpdwmSb5CNLEQOak83CD0DuYy0ZfZYQxEvg71MgTzIlmufh4Dka9D vQzBPEp816gjRL4O1T+YV0nvX1ZdIfJ1qGuIN10hTpLeSW+6QrRJJbbyJrdUEshFL5UTV4TzrqUf Srko61DXEM9cIQ4jIMrkoqxD9Q/m2B9PrDSzrrIO1T+Yq0iI1jvqByBapeIbzLHPkhDlzHV1qOv9 7v9EKpoqo70QrVKZuY7DIQFRIhetVG44ImSfJSKQi0Iqr+KFzf4uFhH7UgqxIiEK5KKpQ837dCWN VIRy0dSh5n3Kk0oqMrmo6lDzPhpGIxWZXFR1qHkfUqSSikgu9h832LpfuUpFJBcvqVin9e2tcOrF 6EmIpYNUbFl05ZRilouuDtXnSd3gnzUnKasvH0Ns3EYAv7RSScWmuMkjiEMnqWhWi2NRLwwFfJof N/iEkkYqArn4SsW+WqyFvaCLmn2lYlunqaRilktPXIeaN5R+k/aCZvEvWD2lxIjo2SsAAAAASUVO RK5CYII= "
+       id="image27" />
   </g>
 </svg>
