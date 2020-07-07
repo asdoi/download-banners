@@ -81,6 +81,17 @@ A collection of free download banners.
     </tr>
     <tr>
         <td>
+            <img src="https://github.com/machiav3lli/oandbackupx/raw/master/badge_github.png" height="120"><br>
+            <a href="https://github.com/machiav3lli/oandbackupx/blob/master/badge_github.png">Image link</a>
+        </td>
+        <td>
+            <a href="https://github.com/machiav3lli/oandbackupx/blob/master/LICENSE.txt">No rights reserved</a>
+            <ul><li>Copyright/Author notice</li></ul>
+            <blockquote>Made by <a href="https://github.com/machiav3lli">machiav3lli</a> from <a href="https://github.com/machiav3lli/oandbackupx">machiav3lli/oandbackupx</a></blockquote>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="https://gitlab.com/asdoi/download-banners/-/raw/master/freeiconshop.com/google-play-badge.svg?inline=false" height="85"><br><br>
             <a href="https://freeiconshop.com/icon/get-it-on-play-store-button/">Image link</a> (unofficial from <a href="https://freeiconshop.com/">freeiconshop.com</a>)<br>
             <a href="https://play.google.com/intl/en_us/badges/">Official graphics</a>
